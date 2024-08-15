@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42638024-2307-401a-9f94-6a4b9a7e9f4b" name="Changes" comment="" />
+    <list default="true" id="42638024-2307-401a-9f94-6a4b9a7e9f4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/patronbuilder/InterfaceBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/patronbuilder/InterfaceBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/patronbuilder/PatronBuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/patronbuilder/PatronBuilderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Contactos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Contactos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Direccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Telefonos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/transferencia/datos/Telefonos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrDesilvestri"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrDesilvestri/RetoPatronBuilder.git",
+    "accountId": "7f6a4e07-c65d-401c-81d8-9e41d6dea8e4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2k4tCPxDrrKqmXWC8vbDae0UHTC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,7 +46,12 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Onedrive - Pontificia Universidad Javeriana/2024/10mo Semestre/Patrones de Diseño de Software/RetoPatronBuilder/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -49,11 +74,23 @@
       <option name="presentableId" value="Default" />
       <updated>1722554550287</updated>
       <workItem from="1722554551456" duration="2000" />
+      <workItem from="1723681497687" duration="1030000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
